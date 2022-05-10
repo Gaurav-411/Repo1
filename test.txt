@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is EC34-56A4
+
+ Directory of D:\gitdemo
+
+05/10/2022  02:34 PM    <DIR>          .
+05/10/2022  02:34 PM    <DIR>          ..
+05/10/2022  02:34 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  246,614,482,944 bytes free
